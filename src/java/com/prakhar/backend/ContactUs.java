@@ -20,10 +20,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Deepak
- */
+
 public class ContactUs extends HttpServlet
 {
     protected void doService(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
