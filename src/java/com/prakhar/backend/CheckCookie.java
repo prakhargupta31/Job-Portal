@@ -18,10 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author Deepak
- */
+
 public class CheckCookie extends HttpServlet
 {
     protected void doService(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
