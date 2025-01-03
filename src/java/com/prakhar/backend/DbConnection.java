@@ -12,10 +12,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
 
-/**
- *
- * @author Deepak
- */
+
 public class DbConnection
 {
     static Connection con;
