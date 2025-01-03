@@ -19,10 +19,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Deepak
- */
+
 public class JobSearchByLocation extends HttpServlet
 {
     @Override
