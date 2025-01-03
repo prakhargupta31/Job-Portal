@@ -18,10 +18,7 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-/**
- *
- * @author Deepak
- */
+
 public class SendConfirmationMail
 {
     public static void sendConfirmationMail(String to_email, String subject, String message)
